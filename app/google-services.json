@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8019394344",
+    "project_id": "ejem-54a63",
+    "storage_bucket": "ejem-54a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8019394344:android:c60a44572034252e871a1d",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8019394344-2dmkfgok0vhpljcg2o7kobhdj95pngr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfO40HpaAjI-EYjJuDYSn-cClC82AckFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8019394344-2dmkfgok0vhpljcg2o7kobhdj95pngr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
